@@ -1,0 +1,21 @@
+# Jupyter Notebook generated files
+.ipynb_checkpoints/
+
+# Jupyter output directory (usually named 'output')
+output/
+
+# Python generated files
+*.pyc
+__pycache__/
+
+# Python virtual environment files (optional, but common)
+venv/
+env/
+*.env
+
+# Logs and output files
+*.log
+*.csv
+*.txt
+
+
