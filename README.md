@@ -52,10 +52,6 @@ First, clone this repository. After that, simply execute the ```bayesian_classif
 - [Vscode](https://code.visualstudio.com/).
 - [Jupyter Notebook](https://jupyter.org/).
 
-For installing some tools more quickly, you can run the following command at terminal, inside the clonned repository:
-
-    sh ./dependencies/install_tools.sh
-
 ## How to contribute 🫂:
 
 Feel free to create a new branch, fork the project, create a new Issue or make a pull request contact one of us to develop at Bayesian Classifier practices.
