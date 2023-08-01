@@ -47,6 +47,27 @@ First, clone this repository. After that, simply execute the ```bayesian_classif
 
 ## Results 📈:
 
+<div align="center">
+	<a href="rep_icon">
+	<img height = "250em" src = "./assets/network_1.png" />
+    </a>
+</div>
+<h4 align="center">Figure 1 - Bayesian Network from Protect the Oranges!</h4>
+
+<div align="center">
+	<a href="rep_icon">
+	<img height = "250em" src = "./assets/results_1.png" />
+    </a>
+</div>
+<h4 align="center">Figure 2 - Correlation Matriz from Orange Plague.</h4>
+
+<div align="center">
+	<a href="rep_icon">
+	<img height = "250em" src = "./assets/results_2.png" />
+    </a>
+</div>
+<h4 align="center">Figure 3 - Accuracy from Bayesian Classifier.</h4>
+
 ### Tools Used 🛠️:
 
 - [Vscode](https://code.visualstudio.com/).
