@@ -6,7 +6,7 @@ import random
 np.random.seed(50)
 
 # Number of data samples in the dataset
-num_samples = 1000
+num_samples = 10000
 
 # Generate the data for each variable
 data = {
