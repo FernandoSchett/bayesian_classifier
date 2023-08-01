@@ -35,4 +35,4 @@ df['Infestation'] = (
 ).astype(int)
 
 # Save the dataset to a CSV file
-df.to_csv('orange_farm.csv', index=False)
+df.to_csv('plague_farm_dataset.csv', index=False)
