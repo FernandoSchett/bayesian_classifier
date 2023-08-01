@@ -38,7 +38,7 @@ samples = {
 
 samples['AlarmTriggered'] = [np.random.choice([False, True], p=prob_alarm[(samples['IntruderPresence'][i], samples['SheepPresence'][i], samples['Thunder'][i])]) for i in range(num_samples)]
 samples['FarmerWakeUp'] = [np.random.choice([False, True], p=prob_farmer_wakeup[samples['AlarmTriggered'][i]]) for i in range(num_samples)]
-samples['OrangeSafety'] = [np.random.choice([0, 1], p=prob_orange_safety[(samples['IntruderPresence'][i], samples['FarmerWakeUp'][i])]) for i in range(num_samples)]
+samples['OrangeSafety'] = [np.random.choice([False, True], p=prob_orange_safety[(samples['IntruderPresence'][i], samples['FarmerWakeUp'][i])]) for i in range(num_samples)]
 
 # Convert to DataFrame
 df = pd.DataFrame(samples)
