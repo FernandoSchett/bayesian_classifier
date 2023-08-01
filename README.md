@@ -63,5 +63,9 @@ Feel free to create a new branch, fork the project, create a new Issue or make a
 ### Important links 🔗:
 
 - [Understand Bayes Theorem](https://www.youtube.com/watch?v=HZGCoVF3YvM&ab_channel=3Blue1Brown).
-- [Bayesian Network](https://www.youtube.com/watch?v=nvzUE6PnPYc&t=436s&ab_channel=UNIVESP).
+- [Bayesian Network - 1](https://www.youtube.com/watch?v=nvzUE6PnPYc&t=436s&ab_channel=UNIVESP).
+- [Bayesian Network - 2](https://www.youtube.com/watch?v=TuGDMj43ehw&t=1104s&ab_channel=BertHuang).
+- [Bayesian Network - 3](https://www.youtube.com/watch?v=_kGdEAo7SCc&t=797s&ab_channel=Prof.Elder).
+- [Bayesian Network - 4](https://www.youtube.com/watch?v=uVwn6l1Sf8U&ab_channel=Prof.Elder).
+- [Bayesian Network - Online Editor](http://bayesjs.github.io/bayesjs-editor/).
 - [Bayesian Classifier](https://www.youtube.com/watch?v=iDuBTP74Cag&t=1107s&ab_channel=Ci%C3%AAnciadeDadoseAprendizadodeM%C3%A1quina).
